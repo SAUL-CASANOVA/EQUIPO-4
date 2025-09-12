@@ -68,7 +68,7 @@ El directorio de esta prueba de desempeño inluye lo siguiente:
 
      - Investigación de todos los temas en la tabla de criterios de comparación.
 
-- ICPC.mp4
+- [Equipo_4_PD1.mp4](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a14214854_alumnos_uady_mx/EZfStpmo0J5HoO6-IiMMPlwBoG-5fcLohPtSN2aSkldxFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1DgKYs)
 
      - Material audiovisual donde se explica de forma sintética los resultados más importantes
   de la actividad.
