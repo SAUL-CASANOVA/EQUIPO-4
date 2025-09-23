@@ -40,7 +40,12 @@ In the next table we show the Individual contribution of each member of the team
 </tr>
 <tr>
 <td>Redacting the non functional requirements.</td>
-<td>Axel Cocom, Andrea Acosta.</td>
+<td>Axel Cocom</td>
+<td>16.6667 %</td>
+</tr>
+<tr>
+<td>Redacting the non functional requirements.</td>
+<td>Andrea Acosta</td>
 <td>16.6667 %</td>
 </tr>
 </table>
