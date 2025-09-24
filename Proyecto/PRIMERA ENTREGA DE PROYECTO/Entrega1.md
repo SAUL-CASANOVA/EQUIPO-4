@@ -17,11 +17,12 @@ See the Document of Software Requirements Specification in this project for the 
 
 For this section of the project we divide the roles as follows:
 
-- Saul Suarez. Planning and organizing team meetings and tasks, documentation of the process and manage the progress of tasks and make adjustments.
-- Diego Alcocer. Product description including redacting the objective, defining the users and redacting the value proposal.
-- Jocelyn Lopez. Redacting and making the diagram of Use Cases.
-- Gael Brito. Redacting the functional requirements.
-- Axel Cocom, Andrea Acosta. Redacting the non functional requirements.
+- Saul Suarez. Planning and organizing team meetings and tasks, documentation of the process and manage the progress of tasks and make adjustments. Redacting the Process Descriptiion, Project Management, and Individual Contributin Measure.
+- Diego Alcocer. Product description including redacting the objective, defining the users and redacting the value proposal. Participating in the desing of the presentation.
+- Jocelyn Lopez. Redacting the specificacion of Use cases and making the diagram of Use Cases.
+- Gael Brito. Redacting the functional requirements, participating in the desing of the presentation.
+- Axel Cocom. Redacting the product requirements (Usability, Efficiency and Security), and the prioritization method.
+- Andrea Acosta. Redacting the organizational requirements (Development requirements) and participating in the desing of the presentation.
 
 In the next table we show the Individual contribution of each member of the team.
 
@@ -50,10 +51,10 @@ In the next table we show the Individual contribution of each member of the team
 <td>Task Management and adjustment</td>
 <td>4.16%</td>
 </tr>
-<td rowspan="3">Diego Alcocer</td>
+<td rowspan="4">Diego Alcocer</td>
 <td>Product Description</td>
 <td>4.16%</td>
-<td rowspan="3">16.6667 %</td>
+<td rowspan="4">16.6667 %</td>
 </tr>
 <tr>
 <td>User Definition</td>
@@ -63,41 +64,45 @@ In the next table we show the Individual contribution of each member of the team
 <td>Value Proposal</td>
 <td>4.16%</td>
 </tr>
+<tr>
+<td>Participating in the desing of the presentation.</td>
+<td>4.16%</td>
+</tr>
 <td rowspan="2">Jocelyn Lopez</td>
 <td>Specification of Use Cases</td>
-<td>4.16%</td>
+<td>8.32%</td>
 <td rowspan="2">16.6667 %</td>
 </tr>
 <tr>
 <td>Diagram of Use Cases</td>
-<td>4.16%</td>
+<td>8.32%</td>
 </tr>
 <td rowspan="2">Gael Brito</td>
 <td>Redacting the functional requirements</td>
-<td>4.16%</td>
+<td>8.32%</td>
 <td rowspan="2">16.6667 %</td>
 </tr>
 <tr>
-<td></td>
-<td>4.16%</td>
+<td>Participating in the desing of the presentation.</td>
+<td>8.32%</td>
 </tr>
 <td rowspan="2">Axel Cocom</td>
 <td>Redacting the product requirements (Usability, Efficiency and Security)</td>
-<td>4.16%</td>
+<td>8.32%</td>
 <td rowspan="2">16.6667 %</td>
 </tr>
 <tr>
 <td>Redacting the external requirements (Legislative and regulatory)</td>
-<td>4.16%</td>
+<td>8.32%</td>
 </tr>
 <td rowspan="2">Andrea Acosta</td>
 <td>Redacting the organizational requirements (Development requirements)</td>
-<td>4.16%</td>
+<td>6.666%</td>
 <td rowspan="2">16.6667 %</td>
 </tr>
 <tr>
-<td></td>
-<td>4.16%</td>
+<td>Participating in the desing of the presentation.</td>
+<td>10%</td>
 </tr>
 
 </table>
