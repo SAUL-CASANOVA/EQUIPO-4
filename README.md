@@ -1,10 +1,10 @@
 # EQUIPO-4
 
-| Integrantes: |
-|--------------|
-|Acosta Chan Andrea Monserrat |
-|Brito Martin Gael Alexis     |
-|Cocom Chel Axel Raul         |
-|Herrera Alcocer Diego Alfonso|
-|Lopez Mis Jocelyn Nicte-Ha   |
-|Suarez Casanova Saul Enrique |
+| Integrante                    | Rol           | Image                                               |
+| ----------------------------- | ------------- | --------------------------------------------------- |
+| Acosta Chan Andrea Monserrat  |               |                                                     |
+| Brito Martin Gael Alexis      |               |                                                     |
+| Cocom Chel Axel Raul          |               |                                                     |
+| Herrera Alcocer Diego Alfonso |               |                                                     |
+| Lopez Mis Jocelyn Nicte-Ha    |               |                                                     |
+| Suarez Casanova Saul Enrique  | Product Owner | <img src="images/saul.jpeg" alt="Foto" width="150"> |
