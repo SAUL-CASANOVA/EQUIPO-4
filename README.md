@@ -2,9 +2,9 @@
 
 | Integrantes: |
 |--------------|
-|Acosta Chan Andrea Monserrat |
+|Acosta Chan Andrea Monserrat|
 |Brito Martin Gael Alexis     |
 |Cocom Chel Axel Raul         |
 |Herrera Alcocer Diego Alfonso|
 |Lopez Mis Jocelyn Nicte-Ha   |
-|Suarez Casanova Saul Enrique |
+|Suarez Casanova Saul Enrique. Product Owner. ![saul](saul.jpeg)  |
