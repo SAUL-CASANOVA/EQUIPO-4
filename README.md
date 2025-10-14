@@ -4,7 +4,7 @@
 | ----------------------------- | ------------- | --------------------------------------------------- |
 | Acosta Chan Andrea Monserrat  |               |                                                     |
 | Brito Martin Gael Alexis      |               |                                                     |
-| Cocom Chel Axel Raul          |               |                                                     |
+| Cocom Chel Axel Raul          | development team          |   <img src="images/axel.jpeg" alt="Foto" width="150">                                                  |
 | Herrera Alcocer Diego Alfonso |               |                                                     |
-| Lopez Mis Jocelyn Nicte-Ha    | development team         | <img src="images/axel.jpeg" alt="Foto" width="150">                                              |
+| Lopez Mis Jocelyn Nicte-Ha    |         |                                             |
 | Suarez Casanova Saul Enrique  | Product Owner | <img src="images/saul.jpeg" alt="Foto" width="150"> |
