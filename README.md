@@ -2,7 +2,7 @@
 
 | Integrante                    | Rol           | Image                                               |
 | ----------------------------- | ------------- | --------------------------------------------------- |
-| Acosta Chan Andrea Monserrat  |               |                                                     |
+| Acosta Chan Andrea Monserrat  |      Scrum Master         |        <img src="images/Andrea foto.jpeg" alt="Foto" width="150">                                             |
 | Brito Martin Gael Alexis      |      development                                                           |<img src="images/Gael.jpg" alt="Foto" width= "150"> |
 | Cocom Chel Axel Raul          | development team          |   <img src="images/axel.jpeg" alt="Foto" width="150">                                                  |
 | Herrera Alcocer Diego Alfonso |               |                                                     |
