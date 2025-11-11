@@ -2,12 +2,13 @@
 
 ## Index.
 
-1. [Product](/Proyecto/Product/product-description.md)
+1. [Product](/Product/product-description.md)
 2. [Requirements](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14214854_alumnos_uady_mx/EYAv0cKSgPlFjGfli9tgQfwBqZoDrwAahgiACXVJvnMAMg?e=vWZ25L)
+   2.1[Survey Persona](/Requirement-analysis/survey.md)
 3. [Design](https://www.figma.com/make/Y61Tjj4zbAX8KisA6uVe7L/FRIMUV-MOCKUP?node-id=0-1&p=f)
 4. [Testing]()
 5. Process.
-   5.1 [log](/Proyecto/process/bitácora.md)
+   5.1 [log](/process/bitácora.md)
    5.2 [Individual-contribution](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a14214854_alumnos_uady_mx/EYAv0cKSgPlFjGfli9tgQfwBqZoDrwAahgiACXVJvnMAMg?e=vWZ25L)
 6. Presentation.
    6.1 [First-presentation](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22203008_alumnos_uady_mx/EWvYRKmGlttKmlXgFexmznkBCeKGrd2vyO-B1Vp5YKDVNQ?e=TjYx3d)
