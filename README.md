@@ -18,7 +18,7 @@
 
 4. Testing.
 
-   4.1 [Testing specification document](/Proyecto/testing/Testing%20specification%20document.docx)
+   4.1 [Testing specification document](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a14214854_alumnos_uady_mx/EYZXSmMcTslCsN5xUix45wsBYFEoIa-Lvpe6G4WJ4hAC5w?e=2ToLfW)
 
    4.2 [Passenger test - Maze](https://t.maze.co/469962323)
 5. Process.
