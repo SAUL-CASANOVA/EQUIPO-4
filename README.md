@@ -20,7 +20,10 @@
 
    4.1 [Testing specification document](https://alumnosuady-my.sharepoint.com/:w:/g/personal/a14214854_alumnos_uady_mx/EYZXSmMcTslCsN5xUix45wsBYFEoIa-Lvpe6G4WJ4hAC5w?e=2ToLfW)
 
-   4.2 [Passenger test - Maze](https://t.maze.co/469962323)
+   4.2 [Passenger test - Maze](https://t.maze.co/473164475)
+
+   4.3 [Maze Report](https://app.maze.co/report/FRIMUV-PASSENGER/1a41nt7midi228w/intro)
+
 5. Process.
 
    5.1 [log](/Proyecto/process/bitácora.md)
