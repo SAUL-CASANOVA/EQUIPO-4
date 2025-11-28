@@ -36,6 +36,8 @@
 
    6.2 [Second-presentation](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22203008_alumnos_uady_mx/ERFnXd4K9ElKo1E9fqOQS7EB7bozaAJ_R1OrlfJHJwDPIQ?e=33OcRn)
 
+   6.3 [Third-presentation](https://alumnosuady-my.sharepoint.com/:v:/g/personal/a22203008_alumnos_uady_mx/IQDAYvWRd79_RoRNZ192WcRLASGPmxxTRaZotSFBmlolH8M?e=idkr28)
+
 ## EQUIPO-4
 
 | Integrante                    | Rol                     | Image                                                      |
